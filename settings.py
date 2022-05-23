@@ -1,4 +1,3 @@
-
-DB_NAME = ''
-DB_USER = ''
-DB_PASSWORD = ''
+DB_NAME = 'swapi_heroes'
+DB_USER = 'postgres'
+DB_PASSWORD = 'Gunner90'
