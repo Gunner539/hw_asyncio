@@ -3,7 +3,7 @@
 
 1.Установить зависимости 
   
-  >pip install -r requirements.txt
+  <code>pip install -r requirements.txt</code>
 
 2.Заполнить данные БД в файле [settings.py](/settings.py)
 
